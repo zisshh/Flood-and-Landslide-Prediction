@@ -61,3 +61,29 @@ Build Flood-and-Landslide-Prediction from the source and install dependencies:
 
 ```bash
 git clone https://github.com/zisshh/Flood-and-Landslide-Prediction
+```
+2. **Navigate to the project directory:**
+
+```bash
+cd Flood-and-Landslide-Prediction
+```
+3. **Install the dependencies:**
+   using pip
+```bash
+pip install -r Code/requirements.txt
+```
+
+### Usage
+Run the project with:
+Using pip:
+```bash
+python {entrypoint}
+```
+
+### Testing
+Flood-and-Landslide-Prediction uses the {test_framework} test framework. Run the test suite with:
+Using pip:
+```bash
+pytest
+```
+
